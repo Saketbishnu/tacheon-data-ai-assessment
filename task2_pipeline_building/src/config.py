@@ -7,7 +7,7 @@ PARAMS = {
     "page": 1
 }
 
-PROJECT_ID = "YOUR_BIGQUERY_PROJECT_ID"
+PROJECT_ID = "mercurial-ruler-463410-p3"
 
 DATASET_ID = "crypto_dataset"
 

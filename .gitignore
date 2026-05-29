@@ -1,19 +1,24 @@
-# Virtual Environment
-task2_pipeline_building/venv/
-.venv/
-.env
-
 # Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
+
+# Virtual environment
+.venv/
+venv/
 
 # VS Code
 .vscode/
 
-# Logs
-*.log
+# Environment variables
+.env
 
-# Credentials
-*.json
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Google credentials
+application_default_credentials.json

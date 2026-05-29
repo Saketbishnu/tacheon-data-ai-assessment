@@ -1,6 +1,6 @@
 import requests
 import logging
-from task2_pipeline_building.src.config import API_URL, PARAMS
+from config import API_URL, PARAMS
 
 logging.basicConfig(level=logging.INFO)
 
