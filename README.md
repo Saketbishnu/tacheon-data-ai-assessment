@@ -36,9 +36,6 @@ This repository contains my submission for the Tacheon Data & AI Product Enginee
 
 ---
 
-### BigQuery Table Preview
-
-![BigQuery Preview](c:\Users\Saket\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{EDCA87CD-7C52-48F4-B08D-2F2B6DE02C99}.png)
 
 ---
 
@@ -54,6 +51,4 @@ This repository contains my submission for the Tacheon Data & AI Product Enginee
 
 ---
 
-### SQL Analytics Query Result
 
-![SQL Result](c:\Users\Saket\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{64439C5E-C8FC-4C24-A24C-1BB8C6AA9962}.png)
